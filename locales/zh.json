@@ -1,0 +1,95 @@
+{
+  "page": {
+    "board": "Board",
+    "stats": "Stats",
+    "learn": "Learn"
+  },
+  "index": {
+    "title": "Welcome to DiaGoals - your diabetes journey partner!",
+    "greeting": "DiaGoals is your go-to app for managing diabetes, specially designed for kids and teens. Set health goals, track your progress, and take control of your well-being. We're here to make managing diabetes easier, more engaging, and empowering for you.",
+    "cta": "Join us in taking charge of your health!",
+    "keyFeatures": "Key Features:",
+    "feature1": "\uD83C\uDF1F Set personalised health goals",
+    "feature2": "\uD83D\uDCCA Track your progress with ease",
+    "feature3": "\uD83C\uDF89 Earn rewards and celebrate achievements"
+  },
+  "tutorial": {
+    "title": "Let’s set your first goal!",
+    "greeting": "Hi, I'm a capybara! I'm here to help you use this app, set goals, track your progress and receive achievement badges.",
+    "content": "Fun fact: Capybaras are very friendly and don’t mind other animals using them as furniture. They happily let birds, rabbits and even monkeys sit on their backs.",
+    "cta": "Click on the \"+\" button to get started."
+  },
+  "modalHeader": {
+    "achievement": "New Achievement",
+    "goalDetails": "Add a Goal",
+    "goalDetailsEdit": "Edit a Goal",
+    "goalsProgress": "Data Insights",
+    "listCategories": "Add a Goal",
+    "listCategoryGoals": "Add a Goal",
+    "loginVerification": "Verification",
+    "progress": "Today's Progress",
+    "resource": "Learning",
+    "tutorial": "Welcome!"
+  },
+  "form": {
+    "option": {
+      "dailyGoal": "Daily Goal",
+      "weeklyGoal": "Weekly Goal",
+      "customGoalText": "Add your own...",
+      "estonia": "\uD83C\uDDEA\uD83C\uDDEA Estonia",
+      "taiwan": "\uD83C\uDDF9\uD83C\uDDFC Taiwan"
+    },
+    "field": {
+      "duration": "For how long do you want to pursue this goal?",
+      "goalType": "Is this a daily goal or a weekly goal?",
+      "reminder": "When would you like to be reminded?",
+      "country": "Select your country",
+      "phone": "Enter your mobile phone number",
+      "verificationCode": "Enter your 6-digit code"
+    }
+  },
+  "goalAction": {
+    "markAsDone": "Mark as done",
+    "markAsDoneConfirmHeader": "Confirmation",
+    "markAsDoneConfirmMessage": "Are you sure you want to mark your goal as done?",
+    "edit": "Edit",
+    "delete": "Delete",
+    "deleteConfirmHeader": "Confirmation",
+    "deleteConfirmMessage": "Are you sure you want to delete your goal?"
+  },
+  "action": {
+    "start": "LET’S GO!",
+    "next": "Next",
+    "continue": "Continue",
+    "close": "Close",
+    "cancel": "Cancel",
+    "save": "Save",
+    "login": "Login",
+    "signIn": "Sign in",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "label": {
+    "dailyGoals": "Daily goals",
+    "weeklyGoals": "Weekly goals",
+    "noGoalsSet": "No goals set",
+    "selectCategory": "Select a category",
+    "selectGoal": "Select a goal",
+    "allGoalsCompleted": "All goals completed!",
+    "dailyGoalsCompleted": "Daily goals completed!",
+    "weeklyGoalsCompleted": "Weekly goals completed!",
+    "congrats": "Congrats!",
+    "dataInsights": "Data Insights",
+    "keepGoing": "You're doing great. Keep going!",
+    "goals": "Goals",
+    "completionRate": "Completion rate",
+    "betterThan": "You are doing better than {betterThan}% of users",
+    "goalsProgress": "Progress of your goals",
+    "usersCount": "Users count",
+    "you": "You",
+    "achievementBadges": "Achievement Badges",
+    "welcome": "Welcome",
+    "loginSuccessful": "Login Successful"
+  }
+}

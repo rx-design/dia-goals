@@ -1,0 +1,58 @@
+[
+  {
+    "uuid": "resource-00",
+    "categoryUuid": "category-00",
+    "label": "Tervislik tasakaalustatud toitumine",
+    "image": "images/thumbnails/card-01.jpg",
+    "content": "Card01"
+  },
+  {
+    "uuid": "resource-01",
+    "categoryUuid": "category-00",
+    "label": "Mida süüa",
+    "image": "images/thumbnails/card-02.jpg",
+    "content": "Card02"
+  },
+  {
+    "uuid": "resource-02",
+    "categoryUuid": "category-01",
+    "label": "Stressi mõjud diabeedile",
+    "image": "images/thumbnails/card-07.jpg",
+    "content": "Card07"
+  },
+  {
+    "uuid": "resource-03",
+    "categoryUuid": "category-01",
+    "label": "Kuidas hoolitseda oma vaimse tervise eest",
+    "image": "images/thumbnails/card-08.jpg",
+    "content": "Card08"
+  },
+  {
+    "uuid": "resource-04",
+    "categoryUuid": "category-02",
+    "label": "Trenni tegemine diabeediga",
+    "image": "images/thumbnails/card-03.jpg",
+    "content": "Card03"
+  },
+  {
+    "uuid": "resource-05",
+    "categoryUuid": "category-02",
+    "label": "Trenni kasulikkus",
+    "image": "images/thumbnails/card-04.jpg",
+    "content": "Card04"
+  },
+  {
+    "uuid": "resource-06",
+    "categoryUuid": "category-03",
+    "label": "Une mõju ajule",
+    "image": "images/thumbnails/card-05.jpg",
+    "content": "Card05"
+  },
+  {
+    "uuid": "resource-07",
+    "categoryUuid": "category-03",
+    "label": "Une mõju diabeedi kontrolli all hoidmisele",
+    "image": "images/thumbnails/card-06.jpg",
+    "content": "Card06"
+  }
+]

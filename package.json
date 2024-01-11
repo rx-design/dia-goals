@@ -1,0 +1,50 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "generate-pwa-assets": "pwa-assets-generator --preset minimal-2023 public/logo.svg"
+  },
+  "dependencies": {
+    "@firebase/app-types": "^0.9.1",
+    "@pinia/nuxt": "^0.5.1",
+    "date-fns": "^3.6.0",
+    "firebase": "^10.10.0",
+    "firebase-admin": "^11.11.1",
+    "firebase-functions": "^4.9.0",
+    "highcharts": "^11.4.1",
+    "highcharts-vue": "^2.0.1",
+    "lodash-es": "^4.17.21",
+    "mathjs": "^12.4.1",
+    "nuxt-vuefire": "^1.0.2",
+    "pinia": "^2.1.7",
+    "primeicons": "^7.0.0",
+    "primevue": "^3.51.0",
+    "vuefire": "^3.1.23"
+  },
+  "devDependencies": {
+    "@nuxt/eslint-config": "^0.2.0",
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@nuxtjs/i18n": "^8.3.0",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "@types/lodash-es": "^4.17.12",
+    "@vite-pwa/assets-generator": "^0.2.4",
+    "@vite-pwa/nuxt": "^0.6.0",
+    "@vueuse/components": "^10.9.0",
+    "@vueuse/core": "^10.9.0",
+    "@vueuse/nuxt": "^10.9.0",
+    "eslint": "^8.57.0",
+    "nuxt": "^3.11.2",
+    "nuxt-gtag": "^2.0.5",
+    "nuxt-icon": "^0.6.10",
+    "nuxt-primevue": "^0.3.1",
+    "video.js": "^8.10.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  }
+}

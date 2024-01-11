@@ -1,0 +1,59 @@
+[
+  {
+    "uuid": "category-00",
+    "label": "Nutrition",
+    "color": "amber-300",
+    "hover": "amber-400",
+    "image": "images/categories/food.png",
+    "goals": [
+      "Avoid sweets",
+      "Eat breakfast",
+      "Eat one serving of fruit with every meal",
+      "Make one of your veggie choices green",
+      "Avoid soft drinks",
+      "Eat three meals"
+    ]
+  },
+  {
+    "uuid": "category-01",
+    "label": "Mental health",
+    "color": "pink-400",
+    "hover": "pink-500",
+    "image": "images/categories/head.png",
+    "goals": [
+      "Read 15 pages of a book",
+      "Do breathing exercises for 10 min",
+      "Meditate for 10 min",
+      "Reflect on your day",
+      "Have 8 hours of phone-free time",
+      "Compliment someone"
+    ]
+  },
+  {
+    "uuid": "category-02",
+    "label": "Activity",
+    "color": "green-500",
+    "hover": "green-600",
+    "image": "images/categories/play.png",
+    "goals": [
+      "Exercise for 60 min",
+      "Do morning or evening stretches",
+      "Take at least a 30 min walk",
+      "Do some light physical exercise first thing in the morning",
+      "Ride a bike 2-3 times a week",
+      "Go to the gym or be physically active at least three times a week"
+    ]
+  },
+  {
+    "uuid": "category-03",
+    "label": "Sleep",
+    "color": "blue-900",
+    "hover": "blue-950",
+    "image": "images/categories/sleep.png",
+    "goals": [
+      "Get at least 8 hours of sleep",
+      "Go to bed and wake up within the same time frame every day",
+      "Avoid using devices at least 30 min before bedtime"
+    ]
+  }
+]

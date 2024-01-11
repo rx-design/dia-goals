@@ -1,0 +1,59 @@
+[
+  {
+    "uuid": "category-00",
+    "label": "Toitumine",
+    "color": "amber-300",
+    "hover": "amber-400",
+    "image": "images/categories/food.png",
+    "goals": [
+      "Hoidu maiustustest",
+      "Söö hommikusööki",
+      "Söö iga söögikorra kõrvale üks portsjon puuvilju",
+      "Söö vähemalt ühte sorti rohelisi juurvilju",
+      "Hoidu karastusjookidest",
+      "Söö kolm toidukorda"
+    ]
+  },
+  {
+    "uuid": "category-01",
+    "label": "Vaimne tervis",
+    "color": "pink-400",
+    "hover": "pink-500",
+    "image": "images/categories/head.png",
+    "goals": [
+      "Loe 15 lk raamatut",
+      "Tee 10 minutit hingamisharjutusi",
+      "Mediteeri 10 minutit",
+      "Mõtle tagasi oma päevale, reflekteeri",
+      "Veeda 8 tundi ilma telefonita",
+      "Tee kellelegi kompliment"
+    ]
+  },
+  {
+    "uuid": "category-02",
+    "label": "Füüsiline aktiivsus",
+    "color": "green-500",
+    "hover": "green-600",
+    "image": "images/categories/play.png",
+    "goals": [
+      "Tee 60 minutit trenni",
+      "Tee hommikul või õhtul venitusharjutusi",
+      "Mine vähemalt 30-minutilisele jalutuskäigule",
+      "Tee hommikul esimese asjana natuke rahulikku trenni",
+      "Sõida 2-3 korda nädalas rattaga",
+      "Käi jõusaalis või ole muul moel füüsiliselt aktiivne vähemalt kolm korda nädalas"
+    ]
+  },
+  {
+    "uuid": "category-03",
+    "label": "Uni",
+    "color": "blue-900",
+    "hover": "blue-950",
+    "image": "images/categories/sleep.png",
+    "goals": [
+      "Saa vähemalt 8 tundi und",
+      "Mine magama ja tõuse üles iga päev samas ajavahemikus",
+      "Hoidu nutiseadmete kasutamisest vähemalt 30 minutit enne uneaega"
+    ]
+  }
+]

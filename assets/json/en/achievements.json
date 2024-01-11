@@ -1,0 +1,68 @@
+[
+  {
+    "uuid": "achievement-00",
+    "brief": "Set your first goal",
+    "title": "You set your first goal! High fives all around!",
+    "image": "images/badges/target.png"
+  },
+  {
+    "uuid": "achievement-01",
+    "brief": "Completed your first daily goal",
+    "title": "You completed your first daily goal! Way to go!",
+    "image": "images/badges/sports-medal.png"
+  },
+  {
+    "uuid": "achievement-02",
+    "brief": "Completed your first weekly goal",
+    "title": "You completed your first weekly goal! Awesome work!",
+    "image": "images/badges/award.png"
+  },
+  {
+    "uuid": "achievement-03",
+    "brief": "Set 3 nutrition goals",
+    "title": "You have set 3 nutrition goals! Good job!",
+    "image": "images/badges/salad-medal.png"
+  },
+  {
+    "uuid": "achievement-04",
+    "brief": "Completed 3 nutrition goals",
+    "title": "You have completed 3 nutrition goals! Impressive!",
+    "image": "images/badges/apple.png"
+  },
+  {
+    "uuid": "achievement-05",
+    "brief": "Set 3 mental health goals",
+    "title": "You have set 3 mental health goals! Amazing!",
+    "image": "images/badges/brain.png"
+  },
+  {
+    "uuid": "achievement-06",
+    "brief": "Completed 3 mental health goals",
+    "title": "You have completed 3 mental health goals! That’s fantastic!",
+    "image": "images/badges/brainstorm.png"
+  },
+  {
+    "uuid": "achievement-07",
+    "brief": "Set 3 activity goals",
+    "title": "You have set 3 activity goals! Cheers to you!",
+    "image": "images/badges/gymnastics.png"
+  },
+  {
+    "uuid": "achievement-08",
+    "brief": "Completed 3 activity goals",
+    "title": "You have completed 3 activity goals! Bravo!",
+    "image": "images/badges/weights.png"
+  },
+  {
+    "uuid": "achievement-09",
+    "brief": "Set 3 sleep goals",
+    "title": "You have set 3 sleep goals! Nice!",
+    "image": "images/badges/sleep.png"
+  },
+  {
+    "uuid": "achievement-10",
+    "brief": "Completed 3 sleep goals",
+    "title": "You have completed 3 sleep goals! Well done!",
+    "image": "images/badges/sleeping.png"
+  }
+]

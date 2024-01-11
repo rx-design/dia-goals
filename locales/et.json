@@ -1,0 +1,95 @@
+{
+  "page": {
+    "board": "Kodu",
+    "stats": "Stat.",
+    "learn": "Allikad"
+  },
+  "index": {
+    "title": "Tere tulemast DiaGoals äppi. See on abiline sinu diabeediteekonnal!",
+    "greeting": "DiaGoals on rakendus diabeediga toime tulekuks, mis on loodud spetsiaalselt noortele. Sea tervise-eesmärke, jälgi oma edusamme ja saavuta oma heaolu üle kontroll. Äpp on siin selleks, et muuta diabeediga hakkama saamine lihtsamaks, kaasahaaravamaks ja jõudu andvamaks.",
+    "cta": "Liitu, et võtta oma tervise eest vastutus!",
+    "keyFeatures": "Põhifunktsioonid:",
+    "feature1": "\uD83C\uDF1F Sea personaliseeritud tervise-eesmärke",
+    "feature2": "\uD83D\uDCCA Jälgi lihtsasti oma edusamme",
+    "feature3": "\uD83C\uDF89 Saa preemiaid ja tähista saavutusi"
+  },
+  "tutorial": {
+    "title": "Seame su esimese eesmärgi!",
+    "greeting": "Hei, ma olen kapibaara! Ma olen siin, et aidata sul seda äppi kasutada, seada eesmärke, jälgida edusamme ja saada saavutuste eest preemiaid.",
+    "content": "Lõbus fakt: Kapibaarad on väga sõbralikud ja neil pole midagi selle vastu, kui teised loomad neid mööblina kasuatavad. Nad lasevad hea meelega lindudel, jänestel ja isegi ahvidel oma selja peal istuda.",
+    "cta": "Vajuta \"+\" nupule, et alustada."
+  },
+  "modalHeader": {
+    "achievement": "Uus saavutus",
+    "goalDetails": "Lisa eesmärk",
+    "goalDetailsEdit": "Muuda eesmärki",
+    "goalsProgress": "Andmete ülevaade",
+    "listCategories": "Lisa eesmärk",
+    "listCategoryGoals": "Lisa eesmärk",
+    "loginVerification": "Kinnitamine",
+    "progress": "Tänased edusammud",
+    "resource": "Õppimine",
+    "tutorial": "Tere tulemast!"
+  },
+  "form": {
+    "option": {
+      "dailyGoal": "Päeva eesmärk",
+      "weeklyGoal": "Nädala eesmärk",
+      "customGoalText": "Lisa enda oma...",
+      "estonia": "\uD83C\uDDEA\uD83C\uDDEA Eesti",
+      "taiwan": "\uD83C\uDDF9\uD83C\uDDFC Taiwan"
+    },
+    "field": {
+      "duration": "Kui kaua sa soovid, et see oleks su eesmärk?",
+      "goalType": "Kas see on päeva või nädala eesmärk?",
+      "reminder": "Millal sa soovid, et saaksid meeldetuletuse?",
+      "country": "Vali oma riik",
+      "phone": "Sisesta oma telefoninumber",
+      "verificationCode": "Sisesta oma kuuekohaline kood"
+    }
+  },
+  "goalAction": {
+    "markAsDone": "Märgi kui \"tehtud\"",
+    "markAsDoneConfirmHeader": "Kinnitus",
+    "markAsDoneConfirmMessage": "Kas oled kindel, et tahad eesmärgi märkida kui \"tehtud\"?",
+    "edit": "Muuda",
+    "delete": "Kustuta",
+    "deleteConfirmHeader": "Kinnitus",
+    "deleteConfirmMessage": "Kas oled kindel, et soovid oma eesmärgi kustutada?"
+  },
+  "action": {
+    "start": "LÄHME!",
+    "next": "Järgmine",
+    "continue": "Jätka",
+    "close": "Sulge",
+    "cancel": "Tühista",
+    "save": "Salvesta",
+    "login": "Logi sisse",
+    "signIn": "Logi sisse",
+    "confirm": "Kinnita",
+    "yes": "Jah",
+    "no": "Ei"
+  },
+  "label": {
+    "dailyGoals": "Päeva eesmärgid",
+    "weeklyGoals": "Nädala eesmärgid",
+    "noGoalsSet": "Ühtegi eesmärki pole seatud",
+    "selectCategory": "Vali kategooria",
+    "selectGoal": "Vali eesmärk",
+    "allGoalsCompleted": "Kõik eesmärgid on täidetud!",
+    "dailyGoalsCompleted": "Päeva eesmärgid on täidetud!",
+    "weeklyGoalsCompleted": "Nädala eesmärgid on täidetud!",
+    "congrats": "Palju õnne!",
+    "dataInsights": "Andmete ülevaade",
+    "keepGoing": "Sul läheb väga hästi. Jätka samamoodi!",
+    "goals": "Eesmärgid",
+    "completionRate": "Eesmärkide saavutamise määr",
+    "betterThan": "Sul läheb paremini kui {betterThan}% kasutajatest",
+    "goalsProgress": "Eesmärkide täitmise kulg",
+    "usersCount": "Kasutajate arv",
+    "you": "Sina",
+    "achievementBadges": "Saavutuste eest saadud märgid",
+    "welcome": "Tere tulemast",
+    "loginSuccessful": "Sisse logimine õnnestus"
+  }
+}

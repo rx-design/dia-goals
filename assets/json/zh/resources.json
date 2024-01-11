@@ -1,0 +1,58 @@
+[
+  {
+    "uuid": "resource-00",
+    "categoryUuid": "category-00",
+    "label": "Healthy Balanced Nutrition",
+    "image": "images/thumbnails/card-01.jpg",
+    "content": "Card01"
+  },
+  {
+    "uuid": "resource-01",
+    "categoryUuid": "category-00",
+    "label": "What to Eat",
+    "image": "images/thumbnails/card-02.jpg",
+    "content": "Card02"
+  },
+  {
+    "uuid": "resource-02",
+    "categoryUuid": "category-01",
+    "label": "Effects of Stress on Diabetes",
+    "image": "images/thumbnails/card-07.jpg",
+    "content": "Card07"
+  },
+  {
+    "uuid": "resource-03",
+    "categoryUuid": "category-01",
+    "label": "How to Care for Your Mental Health",
+    "image": "images/thumbnails/card-08.jpg",
+    "content": "Card08"
+  },
+  {
+    "uuid": "resource-04",
+    "categoryUuid": "category-02",
+    "label": "Exercise with T1D",
+    "image": "images/thumbnails/card-03.jpg",
+    "content": "Card03"
+  },
+  {
+    "uuid": "resource-05",
+    "categoryUuid": "category-02",
+    "label": "Benefits of Exercise",
+    "image": "images/thumbnails/card-04.jpg",
+    "content": "Card04"
+  },
+  {
+    "uuid": "resource-06",
+    "categoryUuid": "category-03",
+    "label": "Sleep’s Effect on Brain",
+    "image": "images/thumbnails/card-05.jpg",
+    "content": "Card05"
+  },
+  {
+    "uuid": "resource-07",
+    "categoryUuid": "category-03",
+    "label": "Effects of Sleep on Diabetes Management",
+    "image": "images/thumbnails/card-06.jpg",
+    "content": "Card06"
+  }
+]

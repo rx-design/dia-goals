@@ -1,0 +1,68 @@
+[
+  {
+    "uuid": "achievement-00",
+    "brief": "Seadsid oma esimese eesmärgi",
+    "title": "Seadsid oma esimese eesmärgi! Super!",
+    "image": "images/badges/target.png"
+  },
+  {
+    "uuid": "achievement-01",
+    "brief": "Täitsid oma esimese päevase eesmärgi",
+    "title": "Täitsid oma esimese päevase eesmärgi! Suurepärane!",
+    "image": "images/badges/sports-medal.png"
+  },
+  {
+    "uuid": "achievement-02",
+    "brief": "Täitsid oma esimese nädala eesmärgi",
+    "title": "Täitsid oma esimese nädala eesmärgi! Hea töö!",
+    "image": "images/badges/award.png"
+  },
+  {
+    "uuid": "achievement-03",
+    "brief": "Seadsid 3 toitumise eesmärki",
+    "title": "Oled seadnud 3 toitumise eesmärki! Hea töö!",
+    "image": "images/badges/salad-medal.png"
+  },
+  {
+    "uuid": "achievement-04",
+    "brief": "Täitsid 3 toitumise eesmärki",
+    "title": "Oled täitnud 3 toitumise eesmärki! Muljetavaldav!",
+    "image": "images/badges/apple.png"
+  },
+  {
+    "uuid": "achievement-05",
+    "brief": "Seadsid 3 vaimse tervise eesmärki",
+    "title": "Oled seadnud 3 vaimse tervise eesmärki! Super!",
+    "image": "images/badges/brain.png"
+  },
+  {
+    "uuid": "achievement-06",
+    "brief": "Täitsid 3 vaimse tervise eesmärki",
+    "title": "Oled täitnud 3 vaimse tervise eesmärki! Fantastiline!",
+    "image": "images/badges/brainstorm.png"
+  },
+  {
+    "uuid": "achievement-07",
+    "brief": "Seadsid 3 füüsilise aktiivsuse eesmärki",
+    "title": "Oled seadnud 3 füüsilise aktiivsuse eesmärki! Hea töö!",
+    "image": "images/badges/gymnastics.png"
+  },
+  {
+    "uuid": "achievement-08",
+    "brief": "Täitsid 3 füüsilise aktiivsuse eesmärki",
+    "title": "Oled täitnud 3 füüsilise aktiivsuse eesmärki! Braavo!",
+    "image": "images/badges/weights.png"
+  },
+  {
+    "uuid": "achievement-09",
+    "brief": "Seadsid 3 une eesmärki",
+    "title": "Oled seadnud 3 une eesmärki! Hästi tehtud!",
+    "image": "images/badges/sleep.png"
+  },
+  {
+    "uuid": "achievement-10",
+    "brief": "Täitsid 3 une eesmärki",
+    "title": "Oled täitnud 3 une eesmärki! Tubli!",
+    "image": "images/badges/sleeping.png"
+  }
+]
